@@ -8,6 +8,8 @@ header{
         
 
 body {
+  margin-right: 50px;
+  margin-left: 50px;
   background-color:grey;
   text-align:center;
 }
