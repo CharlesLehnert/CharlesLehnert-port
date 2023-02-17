@@ -7,10 +7,9 @@
 	
 */
 
-@import url(https://fonts.googleapis.com/css?family=Fredericka+the+Great|Lato);
 
 body {
-  background-color: #5f5345;
+  background-color: grey;
 }
  
 .pageContainer {
@@ -32,12 +31,11 @@ body {
   margin-top: 20px;
 }
 
-img {
-  width: 100%;
+
 }
  
 h1 {
-  font-family: 'Fredericka the Great', cursive;
+  font-family: Times New Roman;
   font-size: 64px;
   color: #8b1b00;
 }
@@ -48,17 +46,4 @@ p, li {
   color: #51473b;
 }
 
-
-
-
-/* ---- Advanced ---- */
-/* This tag is a bit advanced for this lesson,  
-   but is needed to wrap the pageContainer 
-   around any sized content that is floated within it. */
-
-.pageContainer:after { 
-  content: " ";
-  display: table;
-  clear: both;
-}
  
