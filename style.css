@@ -6,7 +6,9 @@ header{
 	background-color:white;
 }
         
-
+con {
+	background: white;
+}
 body {
   margin-right: 50px;
   margin-left: 50px;
