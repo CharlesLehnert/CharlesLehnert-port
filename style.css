@@ -44,4 +44,9 @@ p {
 footer{
 	background-color: purple;
 }
- 
+.centerlist{
+	text-align:center;
+}
+.centerlist > ul{
+	display: inline-block
+}
