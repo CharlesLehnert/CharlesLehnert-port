@@ -2,19 +2,20 @@
 
 
 body {
-  background-color: grey;
+  background:grey;
+  text-align:center;
 }
 
  
 h1 {
   font-family: Times New Roman;
-  font-size: 64px;
+  font-size: 40px;
   color: Black;
 }
  
 li {
   font-family: Serif;
-  font-size: 22px;
+  font-size: 25x;
   color: white;
 }
 p {
