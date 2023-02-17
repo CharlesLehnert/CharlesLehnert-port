@@ -1,9 +1,9 @@
 head{
-	background:white;
+	background:purple;
 }
 
 header{
-	background:white;
+	background:purple;
 }
         
 
@@ -31,12 +31,18 @@ li {
   color: white;
 	
 }
+ul {
+  font-family: Serif;
+  font-size: 25x;
+  color: white;
+	
+}
 p {
  font-family: Arial;
  color: white;
 	text-align:center;
 	 }	 
 footer{
-	background: white;
+	background: purple;
 }
  
