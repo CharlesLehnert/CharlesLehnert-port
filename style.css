@@ -35,7 +35,10 @@ h2 {
     color: Black;
     font-family: Times New Roman;
 }
- 
+ h3{
+	color: Black;
+    font-family: Times New Roman; 
+}
 .charlie {
 	margin-right: 150px;
 	margin-left: 150px;
