@@ -3,6 +3,7 @@ head{
 }
 
 header{
+	padding: 70px;
 	background:white;
 }
         
@@ -55,6 +56,7 @@ p {
 	text-align:center;
 	 }	 
 footer{
+	padding: 70px;
 	background-color: white ;
 }
 .centerlist{
@@ -63,3 +65,5 @@ footer{
 .centerlist > ul{
 	display: inline-block
 }
+
+
