@@ -88,11 +88,13 @@ footer {
 }
 
 
-a:link, a:visited {
-  color: inherit;
+a:link, {
+  color: Black;
   text-decoration: none;
 }
-
+a:visited {
+  color: purple;
+}
 
 a:hover {
   text-decoration: underline;
