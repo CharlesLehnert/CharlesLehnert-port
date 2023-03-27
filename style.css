@@ -1,90 +1,104 @@
-head{
-	background:white;
+
+
+head, header {
+  background-color: white;
 }
 
-header{
-	padding: 70px;
-	background:white;
-}
-        
+
 con {
-	background: white;
+  background-color: white;
 }
+
 body {
   height: 100px;
   margin-right: 50px;
   margin-left: 50px;
-  background-color:grey;
-  text-align:center;
+  background-color: grey;
+  text-align: center;
 }
 
- title {
-	 
-	 text-align:center;
+
+title {
+  text-align: center;
 }
-	 
 
 
 h1 {
   font-family: Times New Roman;
   font-size: 40px;
-  color: Black;
-	text-align:center;
+  color: black;
+  text-align: center;
 }
+
+
 h2 {
-    color: Black;
-    font-family: Times New Roman;
+  font-family: Times New Roman;
+  font-size: 25px;
+  color: black;
 }
- h3{
-	color: Black;
-    font-family: Times New Roman; 
+
+
+h3 {
+  font-family: Times New Roman;
+  font-size: 20px;
+  color: black;
 }
+
+
 .charlie {
-	margin-right: 150px;
-	margin-left: 150px;
+  margin-right: 150px;
+  margin-left: 150px;
 }
+
+
 li {
   font-family: Serif;
-  font-size: 25x;
+  font-size: 25px;
   color: white;
-  text-align:center;
-  list-style-postion: inside;
+  text-align: center;
+  list-style-position: inside;
 }
 
-div{
-	text-color:white;
+
+div {
+  color: white;
 }
 
-	
-}
+
 p {
- font-family: Arial;
- color: white;
-	text-align:center;
-	 }	 
-footer{
-	padding: 70px;
-	background-color: white ;
-}
-.centerlist{
-	text-align:center;
-}
-.centerlist > ul{
-	display: inline-block
+  font-family: Arial;
+  color: white;
+  text-align: center;
 }
 
-a: link {
-	
+
+footer {
+  padding: 70px;
+  background-color: white;
 }
 
-a:visited{
-	
+
+.centerlist {
+  text-align: center;
 }
+
+
+.centerlist > ul {
+  display: inline-block;
+}
+
+
+a:link, a:visited {
+  color: inherit;
+  text-decoration: none;
+}
+
 
 a:hover {
-	
-	
+  text-decoration: underline;
 }
-a:active{
-	
+
+
+a:active {
+  color: red;
 }
